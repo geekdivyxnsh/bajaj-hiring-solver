@@ -1,0 +1,10 @@
+app:
+  candidate:
+    name: "Divyanshu Kumar"
+    regNo: "22BCE0177"
+    email: "divyanshu.kumar2022a@vitstudent.ac.in"
+  endpoints:
+    generate: "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA"
+    fallbackSubmit: "https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/JAVA"
+  storage:
+    outFile: "target/finalQuery.sql"
